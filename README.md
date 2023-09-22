@@ -1,1 +1,1 @@
-# .github
+The Ohio Association for Institutional Research and Planning is an organization of higher education professionals working in the areas of Institutional Research and Strategic Planning in the State of Ohio. Our members represent institutions serving the two-year public, four-year public, and four-year private market sectors. OAIRP is Ohio’s state-level affiliate for both the Association for Institutional Research (AIR) and the Society for College and University Planning (SCUP).
